@@ -72,7 +72,7 @@ ApplicationMain.init = function() {
 	}
 };
 ApplicationMain.main = function() {
-	ApplicationMain.config = { build : "16", company : "ninjaMuffin", file : "NGRadioTest", fps : 60, name : "NGRadioTest", orientation : "", packageName : "com.example.myapp", version : "0.0.1", windows : [{ antialiasing : 0, background : 0, borderless : false, depthBuffer : false, display : 0, fullscreen : false, hardware : false, height : 480, parameters : "{}", resizable : false, stencilBuffer : true, title : "NGRadioTest", vsync : true, width : 640, x : null, y : null}]};
+	ApplicationMain.config = { build : "17", company : "ninjaMuffin", file : "NGRadioTest", fps : 60, name : "NGRadioTest", orientation : "", packageName : "com.example.myapp", version : "0.0.1", windows : [{ antialiasing : 0, background : 0, borderless : false, depthBuffer : false, display : 0, fullscreen : false, hardware : false, height : 480, parameters : "{}", resizable : false, stencilBuffer : true, title : "NGRadioTest", vsync : true, width : 640, x : null, y : null}]};
 };
 ApplicationMain.start = function() {
 	var hasMain = false;

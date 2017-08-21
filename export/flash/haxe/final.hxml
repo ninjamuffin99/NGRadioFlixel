@@ -7,6 +7,8 @@
 -D lime=2.9.1
 -cp C:/HaxeToolkit/haxe/lib/waud/0,9,11/src
 -D waud=0.9.11
+-cp C:/HaxeToolkit/haxe/lib/flixel-ui/2,2,0
+-D flixel-ui=2.2.0
 -cp source
 -cp C:\HaxeToolkit\haxe\lib\openfl/3,6,1/extern
 -D native-trace

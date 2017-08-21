@@ -70,6 +70,126 @@ class ApplicationMain {
 		types.push (lime.Assets.AssetType.IMAGE);
 		
 		
+		urls.push ("flixel/flixel-ui/img/box.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button_arrow_down.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button_arrow_left.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button_arrow_right.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button_arrow_up.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button_thin.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/button_toggle.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/check_box.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/check_mark.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/chrome.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/chrome_flat.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/chrome_inset.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/chrome_light.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/dropdown_mark.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/finger_big.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/finger_small.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/hilight.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/invis.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/minus_mark.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/plus_mark.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/radio.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/radio_dot.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/swatch.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/tab.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/tab_back.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/img/tooltip_arrow.png");
+		types.push (lime.Assets.AssetType.IMAGE);
+		
+		
+		urls.push ("flixel/flixel-ui/xml/defaults.xml");
+		types.push (lime.Assets.AssetType.TEXT);
+		
+		
+		urls.push ("flixel/flixel-ui/xml/default_loading_screen.xml");
+		types.push (lime.Assets.AssetType.TEXT);
+		
+		
+		urls.push ("flixel/flixel-ui/xml/default_popup.xml");
+		types.push (lime.Assets.AssetType.TEXT);
+		
+		
 		
 		if (config.assetsPrefix != null) {
 			
@@ -131,7 +251,7 @@ class ApplicationMain {
 		
 		config = {
 			
-			build: "15",
+			build: "31",
 			company: "ninjaMuffin",
 			file: "NGRadioTest",
 			fps: 60,
