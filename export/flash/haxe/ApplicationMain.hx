@@ -251,7 +251,7 @@ class ApplicationMain {
 		
 		config = {
 			
-			build: "31",
+			build: "32",
 			company: "ninjaMuffin",
 			file: "NGRadioTest",
 			fps: 60,
