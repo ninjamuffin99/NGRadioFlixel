@@ -8,7 +8,7 @@ import flixel.system.FlxSound;
  * ...
  * @author ninjaMuffin
  */
-class PalyState2 extends FlxState 
+class NGRadio extends FlxState 
 {
 	var snd:FlxSound;
 	override public function create():Void 
@@ -20,7 +20,17 @@ class PalyState2 extends FlxState
 		
 		snd.play();
 		
+		
+		
 		super.create();
+	}
+	
+	override public function update(elapsed:Float):Void 
+	{
+		
+		FlxG.watch.add(snd, "artist");
+		FlxG.watch.add(snd, "name");
+		super.update(elapsed);
 	}
 	
 }
