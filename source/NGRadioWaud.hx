@@ -12,7 +12,7 @@ class PlayState extends FlxState
 	
 	override public function create():Void
 	{
-		//Using Waud to load radio, doesn't work in HTML5
+		//Using Waud to load radio, only works in HTML5
 		
 		Waud.init();
 		Waud.autoMute();
